@@ -25,5 +25,5 @@ A list of recommended gems :
 * **bullet**: help to eager load data - https://github.com/flyerhzm/bullet
 * **rack-mini-profiler**: optimizing tool - https://github.com/MiniProfiler/rack-mini-profiler
 * **hashids**: hashed ids for your objects (invoices, users, ...) 
-* **sift**: official gem of the siftsience, fraud detection SaaS - https://github.com/SiftScience/sift-ruby
+* **sift**: official gem of siftsience, a fraud detection SaaS - https://github.com/SiftScience/sift-ruby
 
