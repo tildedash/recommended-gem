@@ -1,4 +1,5 @@
-# recommended-gem
+# recommended gems
+
 A list of recommended gems :
 
 * **rails_12factor**: follow the 12 factors methodology (http://12factor.net) - https://github.com/heroku/rails_12factor
